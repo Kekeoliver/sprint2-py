@@ -44,5 +44,6 @@ Abstração: Foco apenas nos dados vitais do veículo (Estado da Carga, kWh da b
 O ChargeGrid Intelligence viabiliza a transição para a mobilidade elétrica comercial ao pensar a infraestrutura de forma sistêmica. Unindo energia solar, armazenamento e inteligência de dados, o sistema protege a rede elétrica e gera um modelo de negócios altamente rentável e sustentável.
 
  O que esse código faz?
+ 
 Esse script simula o funcionamento do ChargeGrid Intelligence na vida real. Ele funciona como o "cérebro" de um carregador inteligente da GoodWe instalado em um local como um shopping. O objetivo dele é equilibrar três coisas: a pressa do motorista, a conta de energia e a segurança da rede elétrica do prédio. 
 é um código feito para garantir que o carro carregue com segurança, sem derrubar a energia do shopping e cobrando o valor justo de cada um.
